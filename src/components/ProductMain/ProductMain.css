@@ -1,0 +1,17 @@
+.product {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.product > img {
+
+}
+
+h2 {
+  font-size: min(18px, 8vw);
+  line-height: 23.4px;
+}

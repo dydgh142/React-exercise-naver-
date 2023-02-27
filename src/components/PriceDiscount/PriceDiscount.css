@@ -1,0 +1,34 @@
+.discount {
+  width: 100%;
+  display: flex;
+  position: relative;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  border-bottom: 1px solid #dee0e3;
+  padding-bottom: 16px;
+}
+
+.discount-percent {
+  color: #6b90dc;
+  font-size: min(24px, 8vw);
+  font-weight: 700;
+}
+
+.discount-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.real-price {
+  color: #999999;
+  font-weight: 700;
+  font-size: min(16px, 7vw);
+  line-height: 100%;
+  text-decoration-line: line-through;
+  margin-right: 8px;
+}
+
+.discount-price {
+  font-size: min(22px, 8vw);
+  font-weight: 400;
+}

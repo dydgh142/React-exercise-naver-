@@ -1,0 +1,33 @@
+.delivery {
+  padding: 16px 0;
+  border-bottom: 1px solid #dee0e3;
+}
+
+.delivery-wrppaer {
+  width: 100%;
+  display: flex;
+}
+.subtitle {
+  color: #333333;
+}
+
+.line {
+  margin: 0 6px;
+  color: #dee0e3;
+}
+
+.delivery-price {
+  color: #333333;
+  font-weight: 700;
+}
+.delivery-text {
+  color: #6b90dc;
+  font-weight: 700;
+  margin-left: 6px;
+}
+
+.delivery div {
+  color: #999999;
+  margin-top: 8px;
+  font-size: min(14px, 5vw);
+}
