@@ -15,4 +15,5 @@
 
 .purchase-click:hover {
   background: url(../assets/state=hover.svg) no-repeat 0 0;
+  background-color: #0aae4f;
 }
