@@ -5,7 +5,7 @@ const ProductMain = () => {
   return (
     <div className="product">
       <div className="container">
-        <img src="assets/main.png" alt="검사키트" />
+        <img src="assets/main.svg" alt="검사키트" />
       </div>
       <h2>
         레피젠 코로나 자가 검사 키트
